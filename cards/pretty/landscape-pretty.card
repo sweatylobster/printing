@@ -1,0 +1,18 @@
+abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrst
+from a-z is 26 characters
+from 0-9 is 10 characters
+from a-t is 20 characters, since
+ -- from u-z is 6 characters: uvwxyz
+   \.-----------------------> ......
+so:
+            26
+          + 10
+          + 20
+          ----
+          = 56 characters per line in landscape mode...
+13
+14
+15
+16
+17
+18 lines total. After testing I can't wrap and go to 19
